@@ -21,12 +21,11 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 <div align="center">
 
 <a href="https://www.vedonyx.com/"><img src="https://www.vedonyx.com/logo/Vedonyx.svg" height="28" alt="Vedonyx" title="Vedonyx" /></a>
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitgupta3.1415@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gupta--)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitgupta31415)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111)](https://leetcode.com/u/harshitgupta314/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/HarshitGupta314)
-[![Achievements](https://img.shields.io/badge/GitHub-Achievements-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitgupta31415?tab=achievements)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayankunduixb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-kundu-389737397/))
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayankunduixb-pixel)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111)](https://leetcode.com/u/Ayan1Kundu/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ayan1Kundu)
 
 </div>
 
