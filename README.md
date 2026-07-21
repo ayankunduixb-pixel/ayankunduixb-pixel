@@ -20,7 +20,6 @@ I am a developer at **Vedonyx** who turns practical problems into web applicatio
 
 <div align="center">
 
-<a href="https://www.vedonyx.com/"><img src="https://www.vedonyx.com/logo/Vedonyx.svg" height="28" alt="Vedonyx" title="Vedonyx" /></a>
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayankunduixb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-kundu-389737397/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayankunduixb-pixel)
