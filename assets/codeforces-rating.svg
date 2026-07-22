@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title description">
-  <title id="title">Ayan1Kundu live Codeforces dashboard</title>
+  <title id="title">HarshitGupta314 live Codeforces dashboard</title>
   <desc id="description">Current rating 1668, peak rating 1668, 54 problems solved, and 111 submissions.</desc>
   <defs>
     <linearGradient id="ratingArea" x1="0" y1="0" x2="0" y2="1">
@@ -23,7 +23,7 @@
   <rect x="0.5" y="0.5" width="999" height="679" rx="11.5" fill="none" stroke="#30363d" />
 
   <text x="30" y="37" class="title">Codeforces Dashboard</text>
-  <text x="30" y="59" class="detail">Ayan1Kundu  &#8226;  official Codeforces API</text>
+  <text x="30" y="59" class="detail">HarshitGupta314  &#8226;  official Codeforces API</text>
   <circle cx="868" cy="37" r="5" fill="#3fb950">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
   </circle>
