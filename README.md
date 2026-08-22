@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="./assets/profile-intro.mp4">
-  <img src="./assets/profile-header.svg" width="100%" alt="Harshit Gupta - software developer and competitive programmer" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Ayan Kundu - software developer and competitive programmer" />
 </a>
 
 </div>
@@ -34,9 +34,9 @@ Striving to create impactful technology and grow into a software engineer who de
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Prisma Schema Visualizer](https://github.com/harshitgupta31415/prisma-visualizer) | Turns Prisma schemas into interactive ER diagrams with relationship routing, focus states, zoom, pan, and PNG export. | TypeScript, Next.js, React |
-| [MyCollegeFinance](https://github.com/harshitgupta31415/MyCollegeFinance_app) | A Flutter finance app designed around the budgeting needs of students. | Dart, Flutter |
-| [Blood Donation Analysis](https://github.com/harshitgupta31415/blood-donation-analysis) | Explores more than 30,000 donor records to study demographics, donation behavior, and future donation likelihood. | Python, Pandas, Matplotlib, Seaborn |
+| [Jal Jeevan Swasthya](https://github.com/harshitgupta31415/prisma-visualizer) | Smart Community Health Monitoring & Early Warning System | FastAPI, Next.js, React |
+| [Focusflow-x-ai--Deep-Work-Companion](https://github.com/ayankunduixb-pixel/Focusflow-x-ai--Deep-Work-Companion) | AI-powered futuristic productivity app for students to achieve deep focus, track productivity, and build consistent study habits.| React, Tailwind CSS |
+| [Mental Health Score Predictor](https://github.com/harshitgupta31415/blood-donation-analysis) | A Machine Learning-powered web application that predicts a user's Mental Health Score based on daily lifestyle, digital habits, academic routine, sleep, physical activity, and stress level. | Python, FastAPI, Pydantic, Scikit-Learn |
 
 <div align="center">
 
@@ -48,10 +48,10 @@ Striving to create impactful technology and grow into a software engineer who de
 
 <div align="center">
 
-[<img src="./assets/codeforces-rating.svg" width="97%" alt="Live HarshitGupta314 Codeforces dashboard" />](https://codeforces.com/profile/HarshitGupta314)
+[<img src="./assets/codeforces-rating.svg" width="97%" alt="Live ayankunduixb-pixel Codeforces dashboard" />](https://codeforces.com/profile/Ayan1Kundu)
 
 <sub>Generated from the official Codeforces API every six hours.</sub><br />
-[LeetCode: 300+ solved, contest rating 1645](https://leetcode.com/u/harshitgupta314/)
+[LeetCode: 250+ solved, contest rating 1470](https://leetcode.com/u/Ayan1Kundu/)
 
 </div>
 
@@ -60,8 +60,8 @@ Striving to create impactful technology and grow into a software engineer who de
 | Area | Tools |
 | --- | --- |
 | Product | Next.js, React, Node.js, Flutter, Prisma |
-| Languages | Python, TypeScript, JavaScript, Dart, SQL |
-| Data and delivery | Pandas, NumPy, Matplotlib, Git, Vercel |
+| Languages | Python, C, C++, TypeScript, JavaScript, Dart, SQL |
+| Data and delivery | Pandas, NumPy, Matplotlib, Git, Vercel ,Render|
 
 <div align="center">
 
@@ -73,6 +73,6 @@ Striving to create impactful technology and grow into a software engineer who de
 
 <div align="center">
 
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgupta31415&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=false&custom_title=Contribution%20Activity" width="97%" alt="Harshit Gupta GitHub contribution activity graph" />](https://github.com/harshitgupta31415?tab=overview)
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayankunduixb-pixel&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=false&custom_title=Contribution%20Activity" width="97%" alt="Harshit Gupta GitHub contribution activity graph" />](https://github.com/ayankunduixb-pixel?tab=overview)
 
 </div>
