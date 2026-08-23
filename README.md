@@ -8,7 +8,7 @@
 
 <div align="right">
 
-![Profile views](https://komarev.com/ghpvc/?username=harshitgupta31415&style=flat-square&color=30363d&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=ayankunduixb-pixel&style=flat-square&color=30363d&label=Profile+views)
 
 </div>
 
@@ -73,6 +73,6 @@ Striving to create impactful technology and grow into a software engineer who de
 
 <div align="center">
 
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayankunduixb-pixel&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=false&custom_title=Contribution%20Activity" width="97%" alt="Harshit Gupta GitHub contribution activity graph" />](https://github.com/ayankunduixb-pixel?tab=overview)
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayankunduixb-pixel&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=3fb950&area=true&hide_border=false&custom_title=Contribution%20Activity" width="97%" alt="Ayan Kundu GitHub contribution activity graph" />](https://github.com/ayankunduixb-pixel?tab=overview)
 
 </div>

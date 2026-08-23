@@ -1,11 +1,11 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-const handle = process.env.CODEFORCES_HANDLE || "HarshitGupta314";
+const handle = process.env.CODEFORCES_HANDLE || "Ayan1Kundu";
 const apiRoot = "https://codeforces.com/api";
 
 const fetchApi = async (path) => {
   const response = await fetch(`${apiRoot}/${path}`, {
-    headers: { "User-Agent": "harshitgupta31415-profile-dashboard/2.0" },
+    headers: { "User-Agent": "ayankunduixb-pixel-profile-dashboard/2.0" },
   });
 
   if (!response.ok) {
