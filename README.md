@@ -34,9 +34,9 @@ Striving to create impactful technology and grow into a software engineer who de
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Jal Jeevan Swasthya](https://github.com/harshitgupta31415/prisma-visualizer) | Smart Community Health Monitoring & Early Warning System | FastAPI, Next.js, React |
+| [Jal Jeevan Swasthya](https://github.com/ayankunduixb-pixel/SIH-Hackathon) | Smart Community Health Monitoring & Early Warning System | FastAPI, Next.js, React |
 | [Focusflow-x-ai--Deep-Work-Companion](https://github.com/ayankunduixb-pixel/Focusflow-x-ai--Deep-Work-Companion) | AI-powered futuristic productivity app for students to achieve deep focus, track productivity, and build consistent study habits.| React, Tailwind CSS |
-| [Mental Health Score Predictor](https://github.com/harshitgupta31415/blood-donation-analysis) | A Machine Learning-powered web application that predicts a user's Mental Health Score based on daily lifestyle, digital habits, academic routine, sleep, physical activity, and stress level. | Python, FastAPI, Pydantic, Scikit-Learn |
+| [Mental Health Score Predictor](https://github.com/ayankunduixb-pixel/Mental-Health-Score) | A Machine Learning-powered web application that predicts a user's Mental Health Score based on daily lifestyle, digital habits, academic routine, sleep, physical activity, and stress level. | Python, FastAPI, Pydantic, Scikit-Learn |
 
 <div align="center">
 
