@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title description">
   <title id="title">Ayan1Kundu live Codeforces dashboard</title>
-  <desc id="description">Current rating 1037, peak rating 1037, 7 problems solved, and 13 submissions.</desc>
+  <desc id="description">Current rating 781, peak rating 781, 7 problems solved, and 13 submissions.</desc>
   <defs>
     <linearGradient id="ratingArea" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#58a6ff" stop-opacity="0.3" />
@@ -33,14 +33,14 @@
     <rect x="30" y="78" width="148" height="76" rx="8" fill="#161b22" stroke="#30363d" />
     <rect x="30" y="78" width="148" height="3" rx="1.5" fill="#8b949e" />
     <text x="44" y="101" class="label">CURRENT RATING</text>
-    <text x="44" y="129" class="metric">1037</text>
+    <text x="44" y="129" class="metric">781</text>
     <text x="44" y="146" class="detail">Newbie</text>
   </g>
 <g>
     <rect x="188" y="78" width="148" height="76" rx="8" fill="#161b22" stroke="#30363d" />
     <rect x="188" y="78" width="148" height="3" rx="1.5" fill="#8b949e" />
     <text x="202" y="101" class="label">PEAK RATING</text>
-    <text x="202" y="129" class="metric">1037</text>
+    <text x="202" y="129" class="metric">781</text>
     <text x="202" y="146" class="detail">Newbie</text>
   </g>
 <g>
@@ -68,34 +68,30 @@
     <rect x="820" y="78" width="148" height="76" rx="8" fill="#161b22" stroke="#30363d" />
     <rect x="820" y="78" width="148" height="3" rx="1.5" fill="#f778ba" />
     <text x="834" y="101" class="label">RATED CONTESTS</text>
-    <text x="834" y="129" class="metric">3</text>
+    <text x="834" y="129" class="metric">2</text>
     <text x="834" y="146" class="detail">official contests</text>
   </g>
 
   <rect x="30" y="174" width="610" height="306" rx="8" fill="#161b22" stroke="#30363d" />
   <text x="50" y="204" class="section">Rating progression</text>
-  <text x="50" y="222" class="detail">3 rated contests</text>
+  <text x="50" y="222" class="detail">2 rated contests</text>
   <g>
     <line x1="82" y1="438.0" x2="612" y2="438.0" stroke="#30363d" />
     <text x="70" y="442" class="axis" text-anchor="end">200</text>
-    <line x1="82" y1="358.0" x2="612" y2="358.0" stroke="#30363d" />
-    <text x="70" y="362" class="axis" text-anchor="end">600</text>
-    <line x1="82" y1="278.0" x2="612" y2="278.0" stroke="#30363d" />
-    <text x="70" y="282" class="axis" text-anchor="end">1000</text>
+    <line x1="82" y1="338.0" x2="612" y2="338.0" stroke="#30363d" />
+    <text x="70" y="342" class="axis" text-anchor="end">600</text>
     <line x1="82" y1="238.0" x2="612" y2="238.0" stroke="#30363d" />
-    <text x="70" y="242" class="axis" text-anchor="end">1200</text>
+    <text x="70" y="242" class="axis" text-anchor="end">1000</text>
     <text x="82.0" y="460" class="axis" text-anchor="middle">Aug 4</text>
-    <text x="347.0" y="460" class="axis" text-anchor="middle">Aug 6</text>
-    <text x="612.0" y="460" class="axis" text-anchor="middle">Aug 7</text>
-    <path d="M82.0 393.0 L347.0 322.0 L612.0 270.6 L612.0 438 L82.0 438 Z" fill="url(#ratingArea)" />
-    <path d="M82.0 393.0 L347.0 322.0 L612.0 270.6" pathLength="1" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="1">
+    <text x="612.0" y="460" class="axis" text-anchor="middle">Aug 6</text>
+    <path d="M82.0 381.8 L612.0 292.8 L612.0 438 L82.0 438 Z" fill="url(#ratingArea)" />
+    <path d="M82.0 381.8 L612.0 292.8" pathLength="1" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1" stroke-dashoffset="1">
       <animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.8s" fill="freeze" />
     </path>
-    <circle cx="82.0" cy="393.0" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
-    <circle cx="347.0" cy="322.0" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
-    <circle cx="612.0" cy="270.6" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
-    <text x="612.0" y="256.6" class="value" text-anchor="end">1037</text>
-    <circle cx="612.0" cy="270.6" r="7" fill="none" stroke="#8b949e">
+    <circle cx="82.0" cy="381.8" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
+    <circle cx="612.0" cy="292.8" r="3.5" fill="#8b949e" stroke="#0d1117" stroke-width="2" />
+    <text x="612.0" y="278.8" class="value" text-anchor="end">781</text>
+    <circle cx="612.0" cy="292.8" r="7" fill="none" stroke="#8b949e">
       <animate attributeName="r" values="7;14;7" dur="2.2s" repeatCount="indefinite" />
       <animate attributeName="opacity" values="0.9;0;0.9" dur="2.2s" repeatCount="indefinite" />
     </circle>
